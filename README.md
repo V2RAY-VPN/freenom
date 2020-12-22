@@ -105,7 +105,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 
 ![qq邮箱配置04](https://s2.ax1x.com/2020/01/31/13coDI.png "qq邮箱配置04")
 
-***
+***1
 
 </details>
 
@@ -331,3 +331,4 @@ $ cd /data/wwwroot/freenom/ && php run
 
 ### 🥝  开源协议
 [MIT](https://opensource.org/licenses/mit-license.php)
+
