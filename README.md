@@ -83,7 +83,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 
 登录谷歌邮箱后，去 [gmail的这个界面](https://accounts.google.com/b/0/DisplayUnlockCaptcha) 点击允许。这种情况较为少见。
 
-***
+*******
 
 </details>
 
