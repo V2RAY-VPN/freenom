@@ -15,7 +15,8 @@
 name: Run it on action
 
 on:
-  repository_dispatch:
+  watch:
+    types: [started]
   push:
     branches:
       - master
